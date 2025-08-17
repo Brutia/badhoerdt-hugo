@@ -83,3 +83,9 @@ params:
 
   editURL:
     enable: false
+  search: 
+    enable: false
+
+services:
+  googleAnalytics:
+    ID: G-735JRPC3RY

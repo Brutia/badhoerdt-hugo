@@ -1,0 +1,3 @@
+[submodule "themes/badhoerdt"]
+	path = themes/badhoerdt
+	url = https://github.com/Brutia/badhoerdt-hugo-theme

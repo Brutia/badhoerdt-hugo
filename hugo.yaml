@@ -1,0 +1,85 @@
+baseURL: 'https://example.org/'
+languageCode: 'fr'
+title: 'Badhoerdt'
+theme: 'badhoerdt'
+
+
+enableRobotsTXT: true
+
+outputs:
+  home: [html, llms]
+  page: [html]
+  section: [html, rss]
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+
+defaultContentLanguage: fr
+languages:
+  fr:
+    languageName: French
+    weight: 1
+    title: Badhoerdt
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+menu:
+  main:
+    - name: S'inscrire
+      pageRef: /s-inscrire
+      weight: 1
+    - name: Horaires
+      pageRef: /horaires 
+      weight: 2
+    - name: Calendrier
+      pageRef: /calendrier
+      weight: 3
+    - name: Contact
+      pageRef: /contact
+      weight: 4
+    - name: Instagram
+      weight: 5
+      url: "https://www.instagram.com/ccsb.hoerdt"
+      params:
+        icon: github
+    - name: Facebook
+      weight: 6
+      url: "https://www.facebook.com/badhoerdt"
+      params:
+        icon: facebook
+
+params:
+  description: Site du club de badminton de Hoerdt
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo: 
+      path: img/CCSBH_fond_blanc_transparent.png
+      width: 60
+      height: 60
+    width: wide
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+  footer:
+    displayCopyright: true
+    displayPoweredBy: true
+
+
+  editURL:
+    enable: false

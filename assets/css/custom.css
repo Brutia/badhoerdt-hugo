@@ -1,0 +1,16 @@
+/* .hextra-max-navbar-width {
+    background-color: aqua;
+} */
+
+body {
+    background: -webkit-linear-gradient(top, #f9d884 0%, #ffffff 100%) !important;
+}
+
+.white-bg {
+    background-color: #FFF;
+}
+
+.hextra-margin {
+    width: 83.3333%;
+  margin-inline: 8.3333%;
+}

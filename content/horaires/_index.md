@@ -4,19 +4,21 @@ layout: horaires
 ---
 
 
-Jeunes (2025/2026) — Salle Jacques Brandt, Hoerdt  
+# Jeunes (2025/2026) — Salle Jacques Brandt, Hoerdt  
 **Reprise des cours jeunes: mardi 2 septembre 2025** ([Calendrier]({{% relref "/calendrier" %}}))
 
 | Jour     | Horaire            | Catégories / contenu                                      | Encadrement                                          |
 |----------|--------------------|-----------------------------------------------------------|------------------------------------------------------|
-| Mardi    | 16h00–17h30        | Minibad et poussins (5–9 ans)                             | Entraîneur en apprentissage du diplôme d’État                                |
+| Mardi    | 16h00 (**début du créneau 16h30**) –17h30        | Minibad et poussins (5–9 ans)                             | Entraîneur en apprentissage du diplôme d’État                                |
 | Mardi    | 17h30–19h30        | Jeunes compétiteurs (groupe « ENA Bad Académie »)         | Sur sélection uniquement                             |
 | Mercredi | 13h30–15h00        | Poussins et Benjamins (8–11 ans)                          | Entraîneur en apprentissage du diplôme d’État        |
 | Mercredi | 15h00–16h30        | Benjamins et Minimes (10–15 ans)                          | Entraîneur en apprentissage du diplôme d’État        |
-| Jeudi    | 16h00–17h30        | Minibad et poussins (5–9 ans)                             | Entraîneur en apprentissage du diplôme d’État        |
+| Jeudi    | 16h00 (**début du créneau 16h30**)–17h30        | Minibad et poussins (5–9 ans)                             | Entraîneur en apprentissage du diplôme d’État        |
 | Jeudi    | 17h30–19h00        | Benjamins et Minimes (10–15 ans)                          | Entraîneur en apprentissage du diplôme d’État                                |
 
-Adultes (2025/2026) — Salle Jacques Brandt, Hoerdt
+**NB :** pour les créneaux de 16h, les enfants sont pris en charge à la sortie de l'école de Hoerdt, mais les enfants des autres villages peuvent être déposés plus tard. 
+
+# Adultes (2025/2026) — Salle Jacques Brandt, Hoerdt
 
 | Jour     | Horaire     | Public                              |
 |----------|-------------|-------------------------------------|----------------------------------|

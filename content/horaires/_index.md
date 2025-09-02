@@ -7,6 +7,8 @@ layout: horaires
 # Jeunes (2025/2026) — Salle Jacques Brandt, Hoerdt  
 **Reprise des cours jeunes: mardi 2 septembre 2025** ([Calendrier]({{% relref "/calendrier" %}}))
 
+**3 Séances d'éssais possibles**
+
 | Jour     | Horaire            | Catégories / contenu                                      | Encadrement                                          |
 |----------|--------------------|-----------------------------------------------------------|------------------------------------------------------|
 | Mardi    | 16h00 (**début du créneau 16h30**) –17h30        | Minibad et poussins (5–9 ans)                             | Entraîneur en apprentissage du diplôme d’État                                |

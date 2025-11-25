@@ -21,10 +21,10 @@ Pour s'inscrire dans la club, rien de plus simple un simple formulaire en ligne 
 - Attention : il faut attendre que tous les documents soient chargés pour que l’onglet « renouveler ma licence » apparaisse. Une popup vous invite également à renouveler la licence une fois connecté.
 
 2) Vous aviez une licence en 2024/2025 dans un autre club que l’ENABad  
-- Passez par le lien suivant : https://enabad67.ffbad.club/inscription et saisissez votre précédent n° de licence.
+- Passez par le lien suivant : https://adherer.myffbad.fr/enabad67 et saisissez votre précédent n° de licence.
 
 3) Vous êtes nouveau licencié  
-- Inscrivez‑vous via le lien suivant : https://enabad67.ffbad.club/inscription.  
+- Inscrivez‑vous via le lien suivant : :https://adherer.myffbad.fr/enabad67.  
 - Lorsque vous saisissez votre code postal, choisissez bien votre commune de résidence dans la liste.
 
 ---

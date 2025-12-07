@@ -24,7 +24,7 @@ Pour s'inscrire dans la club, rien de plus simple un simple formulaire en ligne 
 - Passez par le lien suivant : https://adherer.myffbad.fr/enabad67 et saisissez votre précédent n° de licence.
 
 3) Vous êtes nouveau licencié  
-- Inscrivez‑vous via le lien suivant : :https://adherer.myffbad.fr/enabad67.  
+- Inscrivez‑vous via le lien suivant : https://adherer.myffbad.fr/enabad67.  
 - Lorsque vous saisissez votre code postal, choisissez bien votre commune de résidence dans la liste.
 
 ---
@@ -35,7 +35,7 @@ Pour s'inscrire dans la club, rien de plus simple un simple formulaire en ligne 
 
 | Catégorie              | Années de naissance          | Cotisation base | Réduction 2e membre |
 |------------------------|------------------------------|-----------------|---------------------|
-| Adultes compétiteurs   | 2007 et avant                | 140,00 €        | −10,00 €            |
+| Adultes   | 2007 et avant                | 140,00 €        | −10,00 €            |
 | Jeunes                 | 2008 ou après                | 120,00 €        | −10,00 €            |
 | Jeunes compétiteurs    | 2008 ou après                | 140,00 €        | −10,00 €            |
 | Minibad                | 2018 ou après                | 75,00 €         | −10,00 €            |
@@ -81,7 +81,7 @@ NB : il est plus intéressant de faire un don.
 
 | Catégorie              | Total versé | Don     | Récupérable (66 %) | Net |
 |------------------------|-------------|---------|--------------------|-----|
-| Adultes compétiteurs   | 190,00 €    | 110,00 €| 72,60 €            | 114,00 € |
+| Adultes   | 190,00 €    | 110,00 €| 72,60 €            | 114,00 € |
 | Jeunes                 | 150,00 €    | 80,00 € | 52,80 €            | 97,20 €  |
 | Jeunes compétiteurs    | 180,00 €    | 90,00 € | 59,40 €            | 120,60 € |
 | Minibad                | 100,00 €    | 60,00 € | 40,00 €            | 60,00 €  |
